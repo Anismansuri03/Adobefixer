@@ -4,6 +4,8 @@ FIX
 Sorry, this Adobe app is not available
 OR
 THIS APP HAS BEEN DISABLED
+OR
+This unlicensed Photoshop app has been disabled. Get genuine Adobe apps
 
 Run This file in powershell or right click on it and then Run With Powershell 
 :)
